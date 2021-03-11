@@ -1,5 +1,1 @@
-# Hello
-## World
-
-
-[About](/about)
+# Hello World
