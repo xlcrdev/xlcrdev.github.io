@@ -17,7 +17,7 @@ Or something adjacent:
 * Web Master
 * Web Content Manager
 
-I've worked as, all of the above and:
+I've worked as all of the above and:
 
 * Help Desk Technician
 * Field Apps Engineer
