@@ -1,14 +1,10 @@
 # About
 
-Welcome. Let's see if this works eh?
+Hey!
 
-I set this page up ages ago randomly and left it to wither here in a dark corner of the "G Hub" as I like to call it.
+Just playing around with Jekyll and spiffing up my GitHub Pages pages!
 
-I set off now on another journey with Jekyll!
-
-The intention here is to experiment with a new thing and put some of the coding nerd in me out here in the wild.
-
-I'm looking for work as:
+Currently I'm looking for work as:
 
 * Web Developer 
 * WordPress Developer 
