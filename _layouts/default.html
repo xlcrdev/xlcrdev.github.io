@@ -5,6 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <style>
+      footer {
+        width: 100%;
+        border-top: 1px dashed #b5e853;
+        padding: 20px 0;
+        margin: 0 0 40px 0;
+      }
+    </style>
 
 {% seo %}
   </head>
@@ -43,7 +51,7 @@
         {{ site.title | default: site.github.repository_name }} 2023
       </div>
     </footer>
-    
+
     {% if site.google_analytics %}
       <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

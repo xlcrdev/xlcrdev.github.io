@@ -8,13 +8,24 @@ I set off now on another journey with Jekyll!
 
 The intention here is to experiment with a new thing and put some of the coding nerd in me out here in the wild.
 
-I'm looking for work as one of the following:
+I'm looking for work as:
 
 * Web Developer 
 * WordPress Developer 
 * PHP Developer 
 * Laravel Developer 
 * Full Stack PHP Developer
+
+Or something adjacent:
+
+* Web Master
+* Web Content Manager
+
+I've worked as, all of the above and:
+
+* Help Desk Technician
+* Field Apps Engineer
+* Snowboard Instructor
 
 ## Some Details
 * Lean towards backend development but skilled in front end design and development too. 
@@ -27,5 +38,8 @@ I'm looking for work as one of the following:
 
 ## Technical Details
 
-* Bootstrap
-* TailwindCSS
+* **Languages:** HTML / CSS, JavaScript, PHP, Python
+* **Frameworks:** Laravel, Tailwind, WordPress / WooCommerce, Bootstrap, jQuery, Shopify
+* **Database:** MySQL, MS SQL
+* **Development:** Git, Vagrant, VirtualBox, Homestead, Docker, Composer, PHPStorm, VS Code
+* **DevOps:** Apache, Nginx, cPanel, Forge, AWS, DigitalOcean, Dreamhost, WPEngine

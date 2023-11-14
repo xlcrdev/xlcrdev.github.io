@@ -1,6 +1,10 @@
 # Hello World
 
-What is this? This is a Super Terrific GitHub Pages page!
+What is this? 
+
+This is a Super Terrific GitHub Pages page!
+
+What's this [about](/about.md) then?
 
 ## Links
 
