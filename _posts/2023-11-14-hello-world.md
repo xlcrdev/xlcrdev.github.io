@@ -3,7 +3,7 @@ layout: post
 title:  "Hello World of Jekyll!"
 ---
 
-# Welcome
+# Holy shit!
 
 **Hello world**, this is my first Jekyll blog post.
 

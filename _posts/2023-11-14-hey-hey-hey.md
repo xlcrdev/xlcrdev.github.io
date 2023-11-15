@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hey hey hey, that was ez!"
+title:  "Hey hey hey, that was EZ!"
 ---
 
 # Too Easy?
