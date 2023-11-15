@@ -37,6 +37,7 @@
         <section id="downloads">
           <a href="/" class="btn btn-home"><span class="icon"></span>Home</a>
           <a href="/about" class="btn btn-star"><span class="icon"></span>About</a>
+          <a href="/links" class="btn btn-star"><span class="icon"></span>Links</a>
           <a href="https://github.com/xlcrdev" class="btn btn-star"><span class="icon"></span>GitHub Profile</a>
           <a href="https://www.linkedin.com/in/derekdurivage/" class="btn btn-star" target="_blank"><span class="icon"></span>LinkedIn Profile</a>
 
@@ -52,7 +53,7 @@
 
     <div class="container">
       <aside id="something">
-        <h3>Hey this thing can blog...</h3>
+        <h3>Hey this thing can blog too!</h3>
         <ul>
           {% for post in site.posts %}
             <li>
@@ -60,6 +61,11 @@
             </li>
           {% endfor %}
         </ul>
+        <hr />
+        <h3>Links</h3>
+
+        <h3>Projects</h3>
+
       </aside>
       <section id="main_content">
         {{ content }}
