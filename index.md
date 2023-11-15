@@ -1,5 +1,5 @@
 # Hello World
-![Astronaut OG](_assets/images/cosmic post office astronaut blue 100.png)
+![Astronaut OG](/_assets/images/cosmic post office astronaut blue 100.png)
 
 What is this? This is a Super Terrific GitHub Pages page!
 
